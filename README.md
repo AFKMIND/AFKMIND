@@ -34,7 +34,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 - **Microsoft SQL Server**
 
 ## UI/UX
-- Figma
+- **Figma**
   
 ## Tools
 - **[VS Code](https://code.visualstudio.com)**
