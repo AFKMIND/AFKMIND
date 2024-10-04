@@ -13,7 +13,17 @@
 ## Frameworks & Libraries
 - **React**
 - **Angular**
+- **Express**
 - **Flask**
+
+## Databases
+- **MongoDB**
+- **MySQL**
+- **PostgreSQL**
+- **Microsoft SQL Server**
+
+## UI/UX
+- Figma
   
 ## Tools
 - **[VS Code](https://code.visualstudio.com)**
@@ -21,3 +31,6 @@
 - **[Resharper](https://www.jetbrains.com/resharper)**
 - **[Rider](https://www.jetbrains.com/rider)**
 - **[Docker](https://www.docker.com)**
+- **[GitLab](https://gitlab.com)**
+
+## AND ENDLESS AMOUNTS OF COFFEE
