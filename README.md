@@ -22,6 +22,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 - **PHP**
 
 ## Frameworks & Libraries
+- **.NET**
 - **React**
 - **Angular**
 - **Express**
