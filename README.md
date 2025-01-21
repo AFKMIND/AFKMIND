@@ -15,6 +15,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 # What we use
 
 ## Technologies & Languages
+- **Java**
 - **JavaScript**
 - **C/C++/C#**
 - **HTML/CSS**
@@ -39,6 +40,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
   
 ## Tools
 - **[VS Code](https://code.visualstudio.com)**
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**
 - **[Webstorm](https://www.jetbrains.com/webstorm)**
 - **[Resharper](https://www.jetbrains.com/resharper)**
 - **[Rider](https://www.jetbrains.com/rider)**
