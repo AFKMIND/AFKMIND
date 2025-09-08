@@ -28,6 +28,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 - **Angular**
 - **Express**
 - **Flask**
+- **TailwindCSS**
 
 ## Databases
 - **MongoDB**
