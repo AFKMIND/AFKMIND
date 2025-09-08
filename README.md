@@ -1,29 +1,40 @@
-# Welcome to our page! - Learn about us below
+# AFKMIND
+
 ![Banner](https://raw.githubusercontent.com/AFKMIND/AFKMIND/refs/heads/main/banner.png)
 
-# Who we are
+<p align="center">
+  <em>Because We Can</em>
+</p>
 
-### As Developers
-We usually make private software and tools that make day to day operations simple and secure. We do share these projects with other teams from time to time, depending on the use case and ease of control
+---
 
-### As Creators
-We make, remix, and share music from time to time, uploaded to our [YouTube channel](https://www.youtube.com/@afkmind)
+## Who We Are
 
-### As a Company
-We plan to release merchandise at some point, as soon as we get shipping sorted out
+### Developers  
+We build private software and tools to make day-to-day operations simple and secure. Occasionally, we share them with other teams, depending on use case and practicality.
 
-# What we use
+### Creators  
+We make, remix, and share music from time to time. Check out our [YouTube channel](https://www.youtube.com/@afkmind)!
 
-## Technologies & Languages
-- **Java**
-- **JavaScript**
-- **TypeScript**
-- **C/C++/C#**
-- **HTML/CSS**
-- **Python**
-- **PHP**
+### Company  
+We're planning to release merchandise soon, so stay tuned!
 
-## Frameworks & Libraries
+---
+
+## What We Use
+
+### Technologies & Languages
+
+![Languages](https://img.shields.io/badge/Java-blue?logo=java)
+![JS](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript)
+![C/C++/C#](https://img.shields.io/badge/C/C++/C%23-00599C?logo=csharp)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?logo=html5)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+
+### Frameworks & Libraries
+
 - **.NET**
 - **React**
 - **Radix**
@@ -32,22 +43,29 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 - **Flask**
 - **TailwindCSS**
 
-## Databases
+### Databases
+
 - **MongoDB**
 - **MySQL**
 - **PostgreSQL**
 - **Microsoft SQL Server**
 
-## UI/UX
-- **Figma**
-  
-## Tools
-- **[VS Code](https://code.visualstudio.com)**
-- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**
-- **[Webstorm](https://www.jetbrains.com/webstorm)**
-- **[Resharper](https://www.jetbrains.com/resharper)**
-- **[Rider](https://www.jetbrains.com/rider)**
-- **[Docker](https://www.docker.com)**
-- **[GitLab](https://gitlab.com)**
+### UI/UX
 
-## AND ENDLESS AMOUNTS OF COFFEE
+- **Figma**
+
+### Tools
+
+| IDEs & Editors | Utilities      | DevOps & Collaboration |
+|:--------------:|:--------------|:----------------------:|
+| [VS Code](https://code.visualstudio.com) | [Docker](https://www.docker.com) | [GitLab](https://gitlab.com) |
+| [IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Resharper](https://www.jetbrains.com/resharper) |    |
+| [Webstorm](https://www.jetbrains.com/webstorm) | [Rider](https://www.jetbrains.com/rider) |    |
+
+---
+
+## Plus Endless Amounts of Coffee
+
+---
+
+> _Thanks for stopping by!_
