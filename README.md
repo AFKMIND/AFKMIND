@@ -1,5 +1,5 @@
 # Welcome to our page! - Learn about us below
-![Banner](https://github.com/user-attachments/assets/bc29e536-a285-4d19-9e4a-5e227ecd5ae2)
+![Banner](https://raw.githubusercontent.com/AFKMIND/AFKMIND/refs/heads/main/banner.png)
 
 # Who we are
 
