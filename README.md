@@ -17,6 +17,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 ## Technologies & Languages
 - **Java**
 - **JavaScript**
+- **TypeScript**
 - **C/C++/C#**
 - **HTML/CSS**
 - **Python**
@@ -25,6 +26,7 @@ We plan to release merchandise at some point, as soon as we get shipping sorted 
 ## Frameworks & Libraries
 - **.NET**
 - **React**
+- **Radix**
 - **Angular**
 - **Express**
 - **Flask**
