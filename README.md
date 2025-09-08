@@ -1,5 +1,4 @@
-<p align="center">
-  # AFKMIND
+<h1 align="center">AFKMIND</h1>
 
 ![Banner](https://raw.githubusercontent.com/AFKMIND/AFKMIND/refs/heads/main/banner.png)
 
